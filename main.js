@@ -45,9 +45,10 @@ for (let i = 1; i <= 30; i++) {
 console.log(arrAq[0]._dna.join(''));
 console.log(arrAq[0].mutate().join(''));
 console.log(arrAq[0].willLikelySurvive());
-console.log(arrAq[0].compareDNA(arrAq[1]));
+console.log(arrAq[0].compareDNA(arrAq[1])); // to test
 // }
 
+// testestest
 
 
 
